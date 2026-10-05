@@ -1,0 +1,6 @@
+[[CURRENCIES]]
+code="TESTWALLET"
+issuer="GASHXMLONRPB4VPAHETCSTSND6RP24HWZZ5BK4U4WLL2G243NFJKPGEX"
+name="TEST ONLY. Pi Testnet. No real gold. No value. Not redeemable."
+desc="We are testing, on Pi Testnet only, a design in which verified Ghanaian Pioneers could one day exchange Pi for a token backed by vaulted gold, priced in cedis. Test tokens only. No real gold. Not available to anyone."
+image="https://testnet.pillgh.com/testwallet.png"
